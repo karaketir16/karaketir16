@@ -17,6 +17,7 @@
 <a href="https://www.hackerrank.com/karaketir16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karaketir16" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/karaketir16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karaketir16" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/karaketir16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karaketir16" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/karaketir16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karaketir16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
